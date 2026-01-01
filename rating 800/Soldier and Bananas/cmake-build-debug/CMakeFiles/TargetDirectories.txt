@@ -1,0 +1,3 @@
+D:/C++/Soldier and Bananas/cmake-build-debug/CMakeFiles/Soldier_and_Bananas.dir
+D:/C++/Soldier and Bananas/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Soldier and Bananas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
