@@ -1,0 +1,3 @@
+D:/C++/Domino piling/cmake-build-debug/CMakeFiles/Domino_piling.dir
+D:/C++/Domino piling/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Domino piling/cmake-build-debug/CMakeFiles/rebuild_cache.dir
