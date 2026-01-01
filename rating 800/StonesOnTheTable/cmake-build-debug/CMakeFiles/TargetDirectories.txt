@@ -1,0 +1,3 @@
+D:/C++/StonesOnTheTable/cmake-build-debug/CMakeFiles/StonesOnTheTable.dir
+D:/C++/StonesOnTheTable/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/StonesOnTheTable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
