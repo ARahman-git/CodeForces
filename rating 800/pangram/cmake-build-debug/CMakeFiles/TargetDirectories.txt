@@ -1,0 +1,3 @@
+D:/C++/pangram/cmake-build-debug/CMakeFiles/pangram.dir
+D:/C++/pangram/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/pangram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
