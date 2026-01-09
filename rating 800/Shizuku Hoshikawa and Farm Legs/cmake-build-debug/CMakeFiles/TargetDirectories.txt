@@ -1,0 +1,3 @@
+D:/C++/Shizuku Hoshikawa and Farm Legs/cmake-build-debug/CMakeFiles/Shizuku_Hoshikawa_and_Farm_Legs.dir
+D:/C++/Shizuku Hoshikawa and Farm Legs/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Shizuku Hoshikawa and Farm Legs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
