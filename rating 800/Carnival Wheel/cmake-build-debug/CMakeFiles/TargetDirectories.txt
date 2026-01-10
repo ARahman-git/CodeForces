@@ -1,0 +1,3 @@
+D:/C++/Carnival Wheel/cmake-build-debug/CMakeFiles/Carnival_Wheel.dir
+D:/C++/Carnival Wheel/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Carnival Wheel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
