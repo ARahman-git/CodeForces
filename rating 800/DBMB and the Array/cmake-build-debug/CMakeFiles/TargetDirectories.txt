@@ -1,0 +1,3 @@
+D:/C++/DBMB and the Array/cmake-build-debug/CMakeFiles/DBMB_and_the_Array.dir
+D:/C++/DBMB and the Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/DBMB and the Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
