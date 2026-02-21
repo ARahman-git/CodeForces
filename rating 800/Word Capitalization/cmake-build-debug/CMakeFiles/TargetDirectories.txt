@@ -1,0 +1,3 @@
+D:/C++/Word Capitalization/cmake-build-debug/CMakeFiles/Word_Capitalization.dir
+D:/C++/Word Capitalization/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Word Capitalization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
