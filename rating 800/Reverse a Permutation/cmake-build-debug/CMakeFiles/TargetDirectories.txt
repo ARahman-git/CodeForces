@@ -1,0 +1,3 @@
+D:/C++/Reverse a Permutation/cmake-build-debug/CMakeFiles/Reverse_a_Permutation.dir
+D:/C++/Reverse a Permutation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Reverse a Permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
